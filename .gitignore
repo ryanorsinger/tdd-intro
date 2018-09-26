@@ -8,3 +8,4 @@ Thumbs.db
 
 # ignore compiled .class files
 out/
+target/
